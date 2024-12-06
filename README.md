@@ -1,7 +1,7 @@
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
                 Mt Gox Price / Density Plotting Suite
-                        by Ryan Molecke 2013
+                        by Tectract 2013
                   based on code by Joel Schaerer 2011
 
   This code includes:
