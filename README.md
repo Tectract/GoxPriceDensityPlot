@@ -22,7 +22,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
   - Joel's code plotted the price-density from data files
 
-  - Ryan added the Gox interface, in-memory optimizations, stream 
+  - Tectract added the Gox interface, in-memory optimizations, stream 
   monitoring code, debugged the plotting code, nice axis formatting by interval
 
   
